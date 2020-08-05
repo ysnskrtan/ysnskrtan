@@ -1,7 +1,7 @@
 ### Hi there, I'm Yasin Şükrü[website] 👋
 
 ## I'm an Uncle, Mathematician, PhD(c) Computer Scientist, Researcher and Developer.
-- 🔭 I’m currently working on Human Activity Recognation
+- 🔭 I’m currently working on Human Activity Recognition
 
 ### Connect with me:
 
@@ -19,7 +19,7 @@
 [<img align="left" alt="android studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/240px-Android_Studio_icon.svg.png" />][website]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 [<img align="left" alt="Swift" width="26px" src="https://img.icons8.com/fluent/48/000000/swift.png" />][website]
-[<img align="left" alt="Obj-C" width="26px" src="https://www.pikpng.com/pngl/m/379-3792021_adobe-illustrator-objective-c-circle-clipart.png" />][website]
+[<img align="left" alt="Obj-C" width="26px" src="https://syntheway.com/Objective-C-icon.png" />][website]
 [<img align="left" alt="Kotlin" width="26px" src="https://img.icons8.com/color/48/000000/kotlin.png" />][website]
 [<img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />][website]
 [<img align="left" alt="Python" width="26px" src="https://img.icons8.com/dusk/64/000000/python.png" />][website]
