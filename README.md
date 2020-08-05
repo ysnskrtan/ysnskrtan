@@ -1,11 +1,11 @@
-### Hi there, I'm [Yasin Şükrü 👋
+### Hi there, I'm [Yasin Şükrü][website] 👋
 
 ## I'm an Uncle, Mathematician, PhD(c) Computer Scientist, Researcher and Developer.
 - 🔭 I’m currently working on Human Activity Recognition
 
 ### Connect with me:
 
-[<img align="left" alt="yasinsukrutan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+[<img align="left" alt="yasinsukrutan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Yasin Şükrü Tan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Yasin Şükrü Tan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Yasin Şükrü Tan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
