@@ -1,4 +1,4 @@
-### Hi there, I'm Yasin Şükrü[website] 👋
+### Hi there, I'm [Yasin Şükrü][website] 👋
 
 ## I'm an Uncle, Mathematician, PhD(c) Computer Scientist, Researcher and Developer.
 - 🔭 I’m currently working on Human Activity Recognition
