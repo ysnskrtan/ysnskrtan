@@ -35,7 +35,7 @@
 <img align="left" alt="GitLab" width="26px" src="https://img.icons8.com/color/48/000000/gitlab.png" />
 
 
-[website]: https:yasinsukrutan.com
+[website]: https://yasinsukrutan.com
 [youtube]: https://www.youtube.com/channel/UCXeerPhqe7rzITeg5gsda_w
 [twitter]: https://twitter.com/uAibu
 [instagram]: https://instagram.com/uAibu
