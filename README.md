@@ -36,8 +36,8 @@
 
 [website]: https://yasinsukrutan.com
 [youtube]: https://www.youtube.com/channel/UCXeerPhqe7rzITeg5gsda_w
-[twitter]: https://twitter.com/uAibu
-[instagram]: https://instagram.com/uAibu
+[twitter]: https://x.com/yasinsukrutan
+[instagram]: https://instagram.com/yasinsukrutan
 [linkedin]: https://www.linkedin.com/in/ysnskrtan/
 <!--
 **ysnskrtan/ysnskrtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
