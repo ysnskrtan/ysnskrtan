@@ -1,6 +1,6 @@
 ### Hi there, I'm [Yasin Şükrü][website] 👋
 
-## I'm an Uncle, PhD(c) Computer Scientist, Mathematician, Researcher and Developer.
+## I'm an Uncle, PhD(c) Computer Scientist, Mathematician, Exercise and Sport Scientist, Researcher and Developer.
 - 🔭 I’m currently working on Complex Human Activity Recognition
 
 ### Connect with me:
