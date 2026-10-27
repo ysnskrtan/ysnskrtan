@@ -1,7 +1,7 @@
 ### Hi there, I'm [Yasin Şükrü][website] 👋
 
 ## I'm an Uncle, PhD(c) Computer Scientist, Mathematician, Exercise and Sport Scientist, Researcher and Developer.
-- 🔭 I’m currently working on Complex Human Activity Recognition
+- 🔭 I’m currently working on Legal AI, focusing on multi-document reasoning and administrative decision support.
 
 ### Connect with me:
 
