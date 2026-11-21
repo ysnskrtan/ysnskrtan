@@ -5,7 +5,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="yasinsukrutan.com" width="22px" src="https://toppng.com/uploads/preview/web-png-jpg-transparent-stock-website-icon-blue-11563644926reanjnmk6x.png" />][website]
+[<img align="left" alt="yasinsukrutan.com" width="22px" src="https://w7.pngwing.com/pngs/285/477/png-transparent-web-development-web-design-internet-web-hosting-service-world-wide-web-logo-symmetry-sphere-thumbnail.png" />][website]
 [<img align="left" alt="Yasin Şükrü Tan | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" alt="Yasin Şükrü Tan | X" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png" />][twitter]
 [<img align="left" alt="Yasin Şükrü Tan | Instagram" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuYxiIictbBYvbC_X1foglg4UF7kmG_xOJH8i8flIyGOHj5JUqvnSU3BQ&s=10" />][instagram]
